@@ -1,11 +1,13 @@
 
-<h1 align="center">Hi , I'm Candida Noronha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Maheswari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Full+Stack+Web+Developer;Data analysis%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Creative and enthusiastic pupil with good communication skills and leadership qualities who has the spirit of willingness to learn, adapt, equip, deliver things Optimistically. Looking forward to be a part in the organization to help in the overall growth and ground my proficiency and skill set..</h4>
 <br>
+<p align="center"> Currently looking for 6 months internship 2022 </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 ## 🔥 Streak Stats
@@ -115,7 +117,7 @@
   
 	<a href="mailto:maheswarivellingiri1@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Maheswari723"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/maheswari2002/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://linkedin.com/in/maheswari2002"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	
 	
 </p>

@@ -14,6 +14,12 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
 
 
+[<img align="left" alt="Maheswari | LinkedIn" height="30px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />][linkedin]
+[<img align="left" alt="Maheswari | medium" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433328.png" />][Medium]
+[<img align="left" alt="Maheswari | Whatsapp" height="30px" src="https://img.icons8.com/doodle/2x/whatsapp.png" />][whatsapp]
+[<img align="left" alt="Maheswari | Gmail" height="30px" src="https://img.icons8.com/doodle/2x/gmail.png" />][gmail]
+<br />
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -114,7 +120,7 @@
 
 ## 🙋‍♀️ Let's Connect
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Maheswari" alt="OMaheswari" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Maheswari" alt="Maheswari" /> </p>
 
 ---
 

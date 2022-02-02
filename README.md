@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Creative and enthusiastic pupil with good communication skills and leadership qualities who has the spirit of willingness to learn, adapt, equip, deliver things Optimistically. Looking forward to be a part in the organization to help in the overall growth and ground my proficiency and skill set..</h4>
+<h4 align="center">Motivated Data Science student aspiring for an opportunity in an organization, which helps to explore, enhance and develop my skills and knowledge</h4>
 <br>
 <p align="center"> Currently looking for 6 months internship 2022 </p>
 
